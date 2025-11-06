@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.DS_Store
+*.zip
+*.pptx
+flowers/
+output/
+preprocessed_images/
+split_images/
+__pycache__/
+data/
+.vscode/
